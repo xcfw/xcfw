@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🔭 I’m a __DevOps manager__ with Devops/Cloud background
+- 🌱 Currently managing a team of devops and backend engineers focused on data, security, billing and payments at [POWR.io](https://www.powr.io)
+- 👯 Collaborating on Open Source Projects.
+- ⚡ Fun fact: playing uyghur frame drum actually helps to solve infrastructure issues
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kek/)
+
+![](https://github.com/dybran/Project-19/blob/main/images/11111.PNG)
