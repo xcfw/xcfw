@@ -1,4 +1,4 @@
-![](https://github.com/xcfw/xcfw/blob/main/images/devops.png)
+![](https://github.com/xcfw/xcfw/blob/main/devops.png)
 
 ## Hi there 👋
 
