@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m a __DevOps manager__ with devops/engineering/network/cloud background
-- 🌱 Currently managing a team of devops, data and backend engineers focused on big data, security, billing and payments at [POWR.io](https://www.powr.io)
+- 🔭 I’m a __DevOps__ with coding/engineering/network/cloud background
+- 🌱 Currently leading a team of devopses, data and backend engineers focused on infrastructure, data, security, billing and payments at [POWR.io](https://www.powr.io)
 - 👯 Collaborating on Open Source Projects
-- ⚡ Fun fact: playing uyghur frame drum "dap" actually helps to solve infrastructure issues
+- ⚡ Fun fact: I don't think DevOps is just a job, it's a playground for creativity and collaboration
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kek/)
