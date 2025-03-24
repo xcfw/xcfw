@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m a __platform team lead__ with programming/linux/network/cloud background
 - 🌱 Currently leading a team of devopses, data and backend engineers focused on infrastructure, data, security, billing and payments at [POWR.io](https://www.powr.io)
 - 👯 Collaborating on Open Source Projects
-- ⚡ Fun fact: I don't think DevOps is just a job, it's a playground for creativity and collaboration
+- ⚡ Fun fact: sometimes I think platform engineering is a good playground for creativity and collaboration =)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kek/)
